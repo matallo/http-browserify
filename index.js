@@ -143,3 +143,5 @@ http.STATUS_CODES = {
     510 : 'Not Extended',               // RFC 2774
     511 : 'Network Authentication Required' // RFC 6585
 };
+
+http.ClientRequest = Request;
